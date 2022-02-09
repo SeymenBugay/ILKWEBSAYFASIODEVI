@@ -1,0 +1,21 @@
+body  {background-color:black;}
+
+h1 {
+   color:darkgreen;
+    font-family: Impact;
+}
+p {
+color: whitesmoke;
+font-family: cursive;
+}
+h2 {
+    color:darkgreen;
+    font-family: Impact;
+}
+ol {
+    color:white
+}
+h3 {
+    color: darkgreen;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
